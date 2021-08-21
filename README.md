@@ -4,9 +4,9 @@ Hi,
 
 - I am a computational structural biologist and I build *integrative* models of macromolecular protein complexes from experimental data that is...surprise..surprise..hard to integrate. 
 
-- Techniques I use most frequently: Bayesian inference, Markov-Chain-Monte-Carlo, rigid-body dynamics
+- Techniques I use most frequently: Bayesian inference, Markov-Chain-Monte-Carlo, rigid-body kinematics
 
-- Other techniques I use: deep learning, molecular dynamics
+- Other techniques I use: deep learning, molecular dynamics.
 
 - Stuff I've developed: 
   - [manybody potential for coarse grained MD simulations](https://docs.lammps.org/pair_local_density.html)
