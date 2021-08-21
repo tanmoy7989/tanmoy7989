@@ -1,4 +1,4 @@
-![](/home/tsanyal/Desktop/tanmoy7989/cmg.gif)  
+![](cmg.gif)  
 
 Hi,
 
@@ -18,4 +18,3 @@ Hi,
   - pairwise competition based spatial restraints for docking in-silico antibody cocktail.
 
 Feel free to reach out if you want to know more about my research and/or wish to collaborate (I'm usually pretty active on twitter!).  
-
