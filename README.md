@@ -2,16 +2,13 @@
 
 I am a computational chemist turned structural biologist turned in-silico protein designer. In a past life, I also dabbled in systems biology (reaction-diffusion models of human respiration) but have scaled down to molecular length-scales since then.
 
-<br>
 <img align="center" src="research_areas.png">
 
 <br>
 
 - Techniques I use most frequently: Bayesian inference, Markov-Chain-Monte-Carlo. 
 
-- Techniques I use less often: Molecular dynamics, Convolutional Neural nets.
-
-- Stuff I've developed: 
+- Stuff I've developed:
   - [manybody potential for coarse grained MD simulations](https://docs.lammps.org/pair_local_density.html)
   - [Bayesian network based integration of cell models](https://github.com/tanmoy7989/bayesian_metamodeling_tutorial)
   - [integrative structure of the yeast Smc5/6 complex](https://github.com/integrativemodeling/smc56_nse256)
