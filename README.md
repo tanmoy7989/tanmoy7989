@@ -1,6 +1,6 @@
 [![Visits Badge](https://badges.strrl.dev/visits/tanmoy7989/tanmoy7989)](https://badges.strrl.dev) [![All issues and PRs](https://badges.strrl.dev/issues-and-prs/all/tanmoy7989)](https://badges.strrl.dev)
 
-I am a computational chemist turned structural biologist turned protein designer. In a past life, I also dabbled in systems biology (reaction-diffusion models of human respiration) but have scaled down to molecules since then.
+I am a recovering academic, smoothly interpolating from protein design to computational chemistry with structural biology in between. In a past life, I also dabbled in systems biology (reaction-diffusion models of human respiration) but have scaled down to molecules since then.
 
 <img align="center" src="research_areas.png">
 
@@ -9,8 +9,8 @@ I am a computational chemist turned structural biologist turned protein designer
 - Techniques I use most frequently: Bayesian inference, Markov-Chain-Monte-Carlo, Protein Language Models. 
 
 - Stuff I've developed:
-- [integrative epitope mapping of nanobodies on pathogenic targets](https://github.com/integrativemodeling/nbspike)
-- [integrative structure of the yeast Smc5/6 complex](https://github.com/integrativemodeling/smc56_nse256)
+  - [integrative epitope mapping of nanobodies on pathogenic targets](https://github.com/integrativemodeling/nbspike)
+  - [integrative structure of the yeast Smc5/6 complex](https://github.com/integrativemodeling/smc56_nse256)
   - [manybody potential for coarse grained MD simulations](https://docs.lammps.org/pair_local_density.html)
   - [Bayesian network based integration of cell models](https://github.com/tanmoy7989/bayesian_metamodeling_tutorial)
   
